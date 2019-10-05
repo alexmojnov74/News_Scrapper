@@ -1,0 +1,59 @@
+html, body {
+    min-height: 100%; 
+}
+
+.btn1, a.btn {
+    background-color:#fc9e24;
+    margin-left: 10px;
+    color: #ffffff;
+    font-family: 'Grenze', serif;
+    font-size: 18px;
+    border: 1px solid black; 
+}
+
+.navbar {
+    border-bottom: 3px solid orange;
+}
+
+.navbar-brand {
+    font-family: 'Grenze', serif;
+    font-size: 32px;
+}
+
+.jumbotron {
+    margin-top:10px;
+    border-color:orange;
+    background-color: #f6f6ef;
+    border-style:solid;
+    border-width: 1px;
+    text-align: center;
+    font-family: 'Grenze', serif;
+    font-size: 18px;
+    height: 130px;
+    padding: 10px;
+}
+
+#scrapeBtn {
+    text-align: right;
+    float:right;
+}
+
+.well {
+    font-family: 'Grenze', serif;
+    font-size: 18px;
+}
+.article {
+    margin-bottom: 5px;
+}
+
+#text{
+    background-color:#f6f6ef;
+}
+.copyright {
+    font-family: 'Grenze', serif;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+
+a:hover,a:visited,a:link ,#scrapeBtn ,a { color:#000; }
